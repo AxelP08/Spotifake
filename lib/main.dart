@@ -205,6 +205,7 @@ class Spotifake extends StatelessWidget {
                   ],
                 )),
 
+            //Espacio vacío para permitir que se vea el contenido completo (la barra inferior recortaba la vista).
             Container(padding: EdgeInsets.all(40))
 
           ],
